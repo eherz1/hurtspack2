@@ -1,0 +1,480 @@
+[01:00:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:00:21] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:00:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:00:21] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[01:00:21] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[01:00:21] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_74, running on Mac OS X:x86_64:10.16, installed at /Applications/ATLauncher.app/Contents/Java/runtimes/minecraft/jre-legacy/mac-os/jre-legacy/jre.bundle/Contents/Home
+[01:00:21] [main/DEBUG] [FML]: Java classpath at launch is:
+[01:00:21] [main/DEBUG] [FML]:     forge-1.12.2-14.23.5.2859.jar
+[01:00:21] [main/DEBUG] [FML]: Java library path at launch is:
+[01:00:21] [main/DEBUG] [FML]:     /Users/eherz/Library/Java/Extensions
+[01:00:21] [main/DEBUG] [FML]:     /Library/Java/Extensions
+[01:00:21] [main/DEBUG] [FML]:     /Network/Library/Java/Extensions
+[01:00:21] [main/DEBUG] [FML]:     /System/Library/Java/Extensions
+[01:00:21] [main/DEBUG] [FML]:     /usr/lib/java
+[01:00:21] [main/DEBUG] [FML]:     .
+[01:00:21] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /Applications/ATLauncher.app/Contents/Java/servers/hurtspack2/libraries
+[01:00:21] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[01:00:21] [main/DEBUG] [FML]: Examining file: openmodularturrets-1.12.2-3.1.14-382.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: SpiceOfLife-mc1.12-1.3.12.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: industrialcraft-2-2.8.222-ex112.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Pam's+BreadCraft+1.12.2-1.1.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: longfallboots-1.2.1b.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: collective-1.12.2-3.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: XaerosWorldMap_1.24.0_Forge_1.12.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThaumicInventoryScanning_1.12.2-2.0.10.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: AppleCore-mc1.12.2-3.4.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ATOP-1.12.2-v.1.6.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: InventoryTweaks-1.64+dev.151.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: CoFHCore-1.12.2-4.6.6.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Clumps-3.1.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Stupid Things-1.12.2-1.1.6.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: GunpowderLib-1.12.2-1.1.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: primitivemobs-1.2.3a.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: torohealth-1.12.2-11.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Treasure2-mc1.12.2-f14.23.5.2859-v2.1.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: FishingMadeBetter-1.12.2-2.2.4.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Chisel-MC1.12.2-1.0.2.45.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Advanced-Fishing-1.12.2-1.3.3.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Pam's Get all the Seeds! 1.12a.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThaumicJEI-1.12.2-1.6.0-27.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: buildcraft-all-7.99.24.8.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Forgelin-1.8.4.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Bloodmoon-MC1.12.2-1.5.3.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: omlib-1.12.2-3.1.5-256.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Pam's Simple Recipes 1.12.2c.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: InfernalMobs-1.12.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: just-enough-harvestcraft-1.12.2-1.7.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: multimob-1.0.5.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Placebo-1.12.2-1.6.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ironchest-1.12.2-7.0.72.847.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: villagespawnpoint_1.12.2-1.8.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: forestry_1.12.2-5.8.2.422.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: RedstoneFlux-1.12-2.1.1.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Pam's HarvestCraft 1.12.2zg.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: MouseTweaks-2.10.1-mc1.12.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: extrautils2-1.12-1.9.9.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: dazzle-2.0.0.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: xptome-1.12.2-v2.0.1.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Xaeros_Minimap_22.10.0_Forge_1.12.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: industrialforegoing-1.12.2-1.12.13-237.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: BiblioCraft[v2.4.6][MC1.12.2].jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: randompatches-1.12.2-1.22.1.10.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: CTM-MC1.12.2-1.0.2.31.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Thaumcraft-1.12.2-6.1.BETA26.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: tesla-core-lib-1.12.2-1.0.18.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: corpse-1.12.2-1.0.8.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Baubles-1.12-1.5.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: VeinMiner-1.12-0.38.2.647+b31535a.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: BetterMineshaftsForge-1.12.2-2.2.1.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.302.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: villagernames_1.12.2-3.4.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: betteranimalsplus-1.12.2-9.0.1.jar
+[01:00:21] [main/DEBUG] [FML]: Making maven link for dev.itsmeow.betteranimalsplus:betteranimalsplus:1.12.2-9.0.1 in memory to /Applications/ATLauncher.app/Contents/Java/servers/hurtspack2/./mods/betteranimalsplus-1.12.2-9.0.1.jar.
+[01:00:21] [main/DEBUG] [FML]: Examining file: IntegrationForegoing-1.12.2-1.11.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: Hwyla-1.8.26-B41_1.12.2.jar
+[01:00:21] [main/DEBUG] [FML]: Examining file: ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[01:00:21] [main/DEBUG] [FML]: File already proccessed /Applications/ATLauncher.app/Contents/Java/servers/hurtspack2/./mods/betteranimalsplus-1.12.2-9.0.1.jar, Skipping
+[01:00:21] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[01:00:21] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[01:00:21] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[01:00:21] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:00:21] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[01:00:21] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[01:00:21] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[01:00:21] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[01:00:21] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:00:21] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[01:00:21] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[01:00:21] [main/DEBUG] [FML]: Discovering coremods
+[01:00:21] [main/INFO] [FML]: Searching /Applications/ATLauncher.app/Contents/Java/servers/hurtspack2/./mods for mods
+[01:00:21] [main/DEBUG] [FML]:   Adding openmodularturrets-1.12.2-3.1.14-382.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding SpiceOfLife-mc1.12-1.3.12.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding industrialcraft-2-2.8.222-ex112.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Pam's+BreadCraft+1.12.2-1.1.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding longfallboots-1.2.1b.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding collective-1.12.2-3.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding XaerosWorldMap_1.24.0_Forge_1.12.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThaumicInventoryScanning_1.12.2-2.0.10.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding AppleCore-mc1.12.2-3.4.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ATOP-1.12.2-v.1.6.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding InventoryTweaks-1.64+dev.151.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding CoFHCore-1.12.2-4.6.6.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThermalInnovation-1.12.2-0.3.6.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Clumps-3.1.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThermalExpansion-1.12.2-5.5.7.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Stupid Things-1.12.2-1.1.6.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding GunpowderLib-1.12.2-1.1.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding primitivemobs-1.2.3a.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding torohealth-1.12.2-11.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Treasure2-mc1.12.2-f14.23.5.2859-v2.1.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding FishingMadeBetter-1.12.2-2.2.4.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ChickenChunks-1.12.2-2.4.2.74-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Chisel-MC1.12.2-1.0.2.45.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Advanced-Fishing-1.12.2-1.3.3.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Pam's Get all the Seeds! 1.12a.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThaumicJEI-1.12.2-1.6.0-27.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding buildcraft-all-7.99.24.8.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Forgelin-1.8.4.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Bloodmoon-MC1.12.2-1.5.3.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding omlib-1.12.2-3.1.5-256.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Pam's Simple Recipes 1.12.2c.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding InfernalMobs-1.12.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding just-enough-harvestcraft-1.12.2-1.7.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding multimob-1.0.5.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Placebo-1.12.2-1.6.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ironchest-1.12.2-7.0.72.847.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding villagespawnpoint_1.12.2-1.8.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding forestry_1.12.2-5.8.2.422.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding CoFHWorld-1.12.2-1.4.0.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThermalDynamics-1.12.2-2.5.6.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding RedstoneFlux-1.12-2.1.1.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Pam's HarvestCraft 1.12.2zg.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding MouseTweaks-2.10.1-mc1.12.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding dazzle-2.0.0.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding xptome-1.12.2-v2.0.1.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Xaeros_Minimap_22.10.0_Forge_1.12.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding industrialforegoing-1.12.2-1.12.13-237.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding BiblioCraft[v2.4.6][MC1.12.2].jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding randompatches-1.12.2-1.22.1.10.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Thaumcraft-1.12.2-6.1.BETA26.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding tesla-core-lib-1.12.2-1.0.18.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding corpse-1.12.2-1.0.8.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding CodeChickenLib-1.12.2-3.2.3.358-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Baubles-1.12-1.5.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding VeinMiner-1.12-0.38.2.647+b31535a.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding BetterMineshaftsForge-1.12.2-2.2.1.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.302.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding villagernames_1.12.2-3.4.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding betteranimalsplus-1.12.2-9.0.1.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding IntegrationForegoing-1.12.2-1.11.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]:   Adding ThermalFoundation-1.12.2-2.6.7.1-universal.jar to the mod list
+[01:00:21] [main/DEBUG] [FML]: Examining for coremod candidacy Advanced-Fishing-1.12.2-1.3.3.jar
+[01:00:21] [main/DEBUG] [FML]: Not found coremod data in Advanced-Fishing-1.12.2-1.3.3.jar
+[01:00:21] [main/DEBUG] [FML]: Examining for coremod candidacy AppleCore-mc1.12.2-3.4.0.jar
+[01:00:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:21] [main/DEBUG] [FML]: Instantiating coremod class AppleCore
+[01:00:26] [main/DEBUG] [FML]: The coremod squeek.applecore.AppleCore requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:00:26] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod AppleCore
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ATOP-1.12.2-v.1.6.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ATOP-1.12.2-v.1.6.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Baubles-1.12-1.5.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Baubles-1.12-1.5.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy BetterMineshaftsForge-1.12.2-2.2.1.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in BetterMineshaftsForge-1.12.2-2.2.1.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy BiblioCraft[v2.4.6][MC1.12.2].jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in BiblioCraft[v2.4.6][MC1.12.2].jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Bloodmoon-MC1.12.2-1.5.3.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class LoadingPlugin
+[01:00:26] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:00:26] [main/DEBUG] [FML]: Found signing certificates for coremod LoadingPlugin (lumien.bloodmoon.asm.LoadingPlugin)
+[01:00:26] [main/DEBUG] [FML]: Found certificate d72e0dd57935b3e9476212aea0c0df352dd76291
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod LoadingPlugin
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy buildcraft-all-7.99.24.8.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in buildcraft-all-7.99.24.8.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Chisel-MC1.12.2-1.0.2.45.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Chisel-MC1.12.2-1.0.2.45.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Clumps-3.1.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Clumps-3.1.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy CoFHCore-1.12.2-4.6.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in CoFHCore-1.12.2-4.6.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy collective-1.12.2-3.0.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in collective-1.12.2-3.0.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy corpse-1.12.2-1.0.8.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in corpse-1.12.2-1.0.8.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy CTM-MC1.12.2-1.0.2.31.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class CTMCorePlugin
+[01:00:26] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:00:26] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod CTMCorePlugin
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy dazzle-2.0.0.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in dazzle-2.0.0.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy extrautils2-1.12-1.9.9.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in extrautils2-1.12-1.9.9.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy FishingMadeBetter-1.12.2-2.2.4.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in FishingMadeBetter-1.12.2-2.2.4.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy forestry_1.12.2-5.8.2.422.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in forestry_1.12.2-5.8.2.422.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Forgelin-1.8.4.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class ForgelinPlugin
+[01:00:26] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:00:26] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod ForgelinPlugin
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy GunpowderLib-1.12.2-1.1.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in GunpowderLib-1.12.2-1.1.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Hwyla-1.8.26-B41_1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Hwyla-1.8.26-B41_1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy industrialcraft-2-2.8.222-ex112.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in industrialcraft-2-2.8.222-ex112.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy industrialforegoing-1.12.2-1.12.13-237.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in industrialforegoing-1.12.2-1.12.13-237.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy InfernalMobs-1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in InfernalMobs-1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy IntegrationForegoing-1.12.2-1.11.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in IntegrationForegoing-1.12.2-1.11.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy InventoryTweaks-1.64+dev.151.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class FMLPlugin
+[01:00:26] [main/TRACE] [FML]: coremod named Inventory Tweaks Coremod is loading
+[01:00:26] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:00:26] [main/DEBUG] [FML]: Found signing certificates for coremod Inventory Tweaks Coremod (invtweaks.forge.asm.FMLPlugin)
+[01:00:26] [main/DEBUG] [FML]: Found certificate 55d2cd4f5f0961410bf7b91ef6c6bf00a766dcbe
+[01:00:26] [main/DEBUG] [FML]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod Inventory Tweaks Coremod
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ironchest-1.12.2-7.0.72.847.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ironchest-1.12.2-7.0.72.847.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.302.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.302.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy just-enough-harvestcraft-1.12.2-1.7.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in just-enough-harvestcraft-1.12.2-1.7.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy longfallboots-1.2.1b.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in longfallboots-1.2.1b.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy MouseTweaks-2.10.1-mc1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in MouseTweaks-2.10.1-mc1.12.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy multimob-1.0.5.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy omlib-1.12.2-3.1.5-256.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in omlib-1.12.2-3.1.5-256.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy openmodularturrets-1.12.2-3.1.14-382.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in openmodularturrets-1.12.2-3.1.14-382.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Pam's Get all the Seeds! 1.12a.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Pam's Get all the Seeds! 1.12a.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Pam's HarvestCraft 1.12.2zg.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Pam's HarvestCraft 1.12.2zg.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Pam's Simple Recipes 1.12.2c.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Pam's Simple Recipes 1.12.2c.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Pam's+BreadCraft+1.12.2-1.1.2.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Pam's+BreadCraft+1.12.2-1.1.2.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Placebo-1.12.2-1.6.0.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Placebo-1.12.2-1.6.0.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy primitivemobs-1.2.3a.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in primitivemobs-1.2.3a.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy randompatches-1.12.2-1.22.1.10.jar
+[01:00:26] [main/TRACE] [FML]: Adding randompatches-1.12.2-1.22.1.10.jar to the list of known coremods, it will not be examined again
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class RPCore
+[01:00:26] [main/TRACE] [FML]: coremod named RandomPatches is loading
+[01:00:26] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:00:26] [main/DEBUG] [FML]: Found signing certificates for coremod RandomPatches (com.therandomlabs.randompatches.core.RPCore)
+[01:00:26] [main/DEBUG] [FML]: Found certificate 20d08fb3fe9c268a63a75d337fb507464c8aaccd
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod RandomPatches
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy RedstoneFlux-1.12-2.1.1.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in RedstoneFlux-1.12-2.1.1.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy SpiceOfLife-mc1.12-1.3.12.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in SpiceOfLife-mc1.12-1.3.12.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Stupid Things-1.12.2-1.1.6.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Stupid Things-1.12.2-1.1.6.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy tesla-core-lib-1.12.2-1.0.18.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in tesla-core-lib-1.12.2-1.0.18.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Thaumcraft-1.12.2-6.1.BETA26.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Thaumcraft-1.12.2-6.1.BETA26.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThaumicInventoryScanning_1.12.2-2.0.10.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThaumicInventoryScanning_1.12.2-2.0.10.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThaumicJEI-1.12.2-1.6.0-27.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThaumicJEI-1.12.2-1.6.0-27.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy torohealth-1.12.2-11.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in torohealth-1.12.2-11.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Treasure2-mc1.12.2-f14.23.5.2859-v2.1.0.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in Treasure2-mc1.12.2-f14.23.5.2859-v2.1.0.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy VeinMiner-1.12-0.38.2.647+b31535a.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in VeinMiner-1.12-0.38.2.647+b31535a.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy villagernames_1.12.2-3.4.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in villagernames_1.12.2-3.4.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy villagespawnpoint_1.12.2-1.8.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in villagespawnpoint_1.12.2-1.8.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy Xaeros_Minimap_22.10.0_Forge_1.12.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_22.10.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class XaeroMinimapPlugin
+[01:00:26] [main/DEBUG] [FML]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:00:26] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod XaeroMinimapPlugin
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy XaerosWorldMap_1.24.0_Forge_1.12.jar
+[01:00:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.24.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:00:26] [main/DEBUG] [FML]: Instantiating coremod class XaeroWorldMapPlugin
+[01:00:26] [main/DEBUG] [FML]: The coremod xaero.map.core.XaeroWorldMapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:00:26] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[01:00:26] [main/DEBUG] [FML]: Enqueued coremod XaeroWorldMapPlugin
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy xptome-1.12.2-v2.0.1.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in xptome-1.12.2-v2.0.1.jar
+[01:00:26] [main/DEBUG] [FML]: Examining for coremod candidacy betteranimalsplus-1.12.2-9.0.1.jar
+[01:00:26] [main/DEBUG] [FML]: Not found coremod data in betteranimalsplus-1.12.2-9.0.1.jar
+[01:00:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:00:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:00:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:00:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:00:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:26] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[01:00:26] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[01:00:26] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[01:00:26] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[01:00:26] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[01:00:27] [main/DEBUG] [FML]: Injection complete
+[01:00:27] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[01:00:27] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[01:00:27] [main/DEBUG] [FML]: Read 1154 binary patches
+[01:00:27] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[01:00:28] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:00:28] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[01:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:28] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[01:00:28] [main/DEBUG] [FML]: Injection complete
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[01:00:28] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[01:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:28] [main/DEBUG] [FML]: Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[01:00:28] [main/DEBUG] [FML]: Injection complete
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin ForgelinPlugin
+[01:00:28] [main/DEBUG] [FML]: Coremod plugin class ForgelinPlugin run successfully
+[01:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:28] [main/DEBUG] [FML]: Injecting coremod XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\} class transformers
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.SaveFormatTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiBossOverlayTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[01:00:28] [main/DEBUG] [FML]: Injection complete
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin for XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\}
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin XaeroMinimapPlugin
+[01:00:28] [main/DEBUG] [FML]: Coremod plugin class XaeroMinimapPlugin run successfully
+[01:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:28] [main/DEBUG] [FML]: Injecting coremod XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\} class transformers
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.SaveFormatTransformer
+[01:00:28] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.BiomeColorHelperTransformer
+[01:00:28] [main/DEBUG] [FML]: Injection complete
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin for XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\}
+[01:00:28] [main/DEBUG] [FML]: Running coremod plugin XaeroWorldMapPlugin
+[01:00:28] [main/DEBUG] [FML]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[01:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:00:28] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[01:00:28] [main/DEBUG] [FML]: Loaded 12 rules from AccessTransformer config file invtweaks_at.cfg
+[01:00:28] [main/DEBUG] [FML]: Loaded 46 rules from AccessTransformer mod jar file ./mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar!META-INF/ccl_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 6 rules from AccessTransformer mod jar file ./mods/ThaumicInventoryScanning_1.12.2-2.0.10.jar!META-INF/tcinventoryscan_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 24 rules from AccessTransformer mod jar file ./mods/Thaumcraft-1.12.2-6.1.BETA26.jar!META-INF/tc_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/Chisel-MC1.12.2-1.0.2.45.jar!META-INF/chisel_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 10 rules from AccessTransformer mod jar file ./mods/Advanced-Fishing-1.12.2-1.3.3.jar!META-INF/Advanced_Fishing_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 3 rules from AccessTransformer mod jar file ./mods/Bloodmoon-MC1.12.2-1.5.3.jar!META-INF/Bloodmoon_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 97 rules from AccessTransformer mod jar file ./mods/extrautils2-1.12-1.9.9.jar!META-INF/extrautils2_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar!META-INF/biomesoplenty_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 45 rules from AccessTransformer mod jar file ./mods/CoFHCore-1.12.2-4.6.6.1-universal.jar!META-INF/cofh_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 10 rules from AccessTransformer mod jar file ./mods/forestry_1.12.2-5.8.2.422.jar!META-INF/forestry_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.16.1.302.jar!META-INF/jei_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 4 rules from AccessTransformer mod jar file ./mods/Placebo-1.12.2-1.6.0.jar!META-INF/placebo_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/randompatches-1.12.2-1.22.1.10.jar!META-INF/randompatches_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 3 rules from AccessTransformer mod jar file ./mods/ChickenChunks-1.12.2-2.4.2.74-universal.jar!META-INF/chickenchunks_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Loaded 5 rules from AccessTransformer mod jar file ./mods/CTM-MC1.12.2-1.0.2.31.jar!META-INF/ctm_at.cfg
+
+[01:00:28] [main/DEBUG] [FML]: Validating minecraft
+[01:00:29] [main/DEBUG] [FML]: Minecraft validated, launching...
+[01:00:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:29] [main/DEBUG] [FML]: Injecting coremod LoadingPlugin \{lumien.bloodmoon.asm.LoadingPlugin\} class transformers
+[01:00:29] [main/TRACE] [FML]: Registering transformer lumien.bloodmoon.asm.ClassTransformer
+[01:00:29] [main/DEBUG] [FML]: Injection complete
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin for LoadingPlugin \{lumien.bloodmoon.asm.LoadingPlugin\}
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin LoadingPlugin
+[01:00:29] [main/DEBUG] [FML]: Coremod plugin class LoadingPlugin run successfully
+[01:00:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:29] [main/DEBUG] [FML]: Injecting coremod Inventory Tweaks Coremod \{invtweaks.forge.asm.FMLPlugin\} class transformers
+[01:00:29] [main/TRACE] [FML]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[01:00:29] [main/DEBUG] [FML]: Injection complete
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin for Inventory Tweaks Coremod \{invtweaks.forge.asm.FMLPlugin\}
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin Inventory Tweaks Coremod
+[01:00:29] [main/DEBUG] [FML]: Coremod plugin class FMLPlugin run successfully
+[01:00:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:29] [main/DEBUG] [FML]: Injecting coremod AppleCore \{squeek.applecore.AppleCore\} class transformers
+[01:00:29] [main/TRACE] [FML]: Registering transformer squeek.applecore.asm.TransformerModuleHandler
+[01:00:29] [main/DEBUG] [FML]: Injection complete
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin for AppleCore \{squeek.applecore.AppleCore\}
+[01:00:29] [main/DEBUG] [FML]: Running coremod plugin AppleCore
+[01:00:29] [main/DEBUG] [FML]: Coremod plugin class AppleCore run successfully
+[01:00:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:29] [main/DEBUG] [FML]: Injecting coremod RandomPatches \{com.therandomlabs.randompatches.core.RPCore\} class transformers
+[01:00:29] [main/TRACE] [FML]: Registering transformer com.therandomlabs.randompatches.core.RPTransformer
+[01:00:30] [main/DEBUG] [FML]: Injection complete
+[01:00:30] [main/DEBUG] [FML]: Running coremod plugin for RandomPatches \{com.therandomlabs.randompatches.core.RPCore\}
+[01:00:30] [main/DEBUG] [FML]: Running coremod plugin RandomPatches
+[01:00:30] [main/DEBUG] [FML]: Coremod plugin class RPCore run successfully
+[01:00:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:00:30] [main/DEBUG] [FML]: Injecting coremod CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\} class transformers
+[01:00:30] [main/TRACE] [FML]: Registering transformer team.chisel.ctm.client.asm.CTMTransformer
+[01:00:30] [main/DEBUG] [FML]: Injection complete
+[01:00:30] [main/DEBUG] [FML]: Running coremod plugin for CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\}
+[01:00:30] [main/DEBUG] [FML]: Running coremod plugin CTMCorePlugin
+[01:00:30] [main/DEBUG] [FML]: Coremod plugin class CTMCorePlugin run successfully
+[01:00:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:00:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:00:30] [main/DEBUG] [Bloodmoon]: Found World Class: net/minecraft/world/World
+[01:00:30] [main/DEBUG] [randompatches]: Transforming class: net.minecraft.world.WorldServer
+[01:00:30] [main/DEBUG] [randompatches]: Patching method: <init> (<init>)
+[01:00:30] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:00:30] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.server.management.PlayerList
+[01:00:30] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:00:30] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:00:30] [main/DEBUG] [randompatches]: Transforming class: net.minecraft.entity.EntityLivingBase
+[01:00:30] [main/DEBUG] [randompatches]: Patching method: func_110145_l (dismountEntity)
+[01:00:30] [main/DEBUG] [randompatches]: Transforming class: net.minecraft.entity.Entity
+[01:00:30] [main/DEBUG] [randompatches]: Patching method: func_189511_e (writeToNBT)
+[01:00:30] [main/DEBUG] [randompatches]: Patching method: func_70020_e (readFromNBT)
+[01:00:30] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:00:30] [main/WARN] [net.minecraft.server.ServerEula]: Failed to load eula.txt
+[01:00:30] [main/INFO] [net.minecraft.server.MinecraftServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
